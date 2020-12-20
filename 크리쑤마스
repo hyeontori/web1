@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>다슬아 사랑해</title>
+
+    <link rel="shortcut icon" href="https://tse4.mm.bing.net/th?id=OIP.-T45EJPuQYYmDgFgziziHgAAAA&pid=Api&P=0&w=300&h=300">
+
+    <meta property="og:image" content="http://www.confessionsofanover-workedmom.com/wp-content/uploads/2015/11/working-from-home-on-a-snow-day.jpg">
+    <meta property="og:title" content="눈 짱 많이 내렸다">
+    <meta property="og:description" content="눈이 엄청 이뻐요!">
+
+    <script src="https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/xmas/snow.js"></script> 
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poor+Story&display=swap" rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Poor Story', cursive;
+        }
+
+        body {
+            background-color: #9b070f;
+        }
+
+        .envelope {
+            background-image: url('https://pngimg.com/uploads/envelope/envelope_PNG18366.png');
+            background-size: cover;
+            background-position: center;
+
+            width: 200px;
+            height: 200px;
+
+            margin: 200px auto 0px auto;
+
+            cursor: pointer;
+        }
+
+        .envelope-msg {
+            color: white;
+            text-align: center;
+        }
+
+        .letter-close {
+            display: block;
+        }
+
+        .letter-open {
+            display:none
+        }
+
+        .rtan {
+            background-color: white;
+
+            width: 200px;
+            height: 200px;
+
+            background-image: url('https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/xmas/Webp.net-gifmaker.gif');
+            background-size: cover;
+            background-position: center;
+
+            margin: 100px auto 0px auto;
+
+            border-radius: 100px;
+
+            border: 5px solid white;
+            box-shadow: 0px 0px 10px 0px white;
+
+        }
+
+        h1 {
+            color: white;
+            text-align: center;
+
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+
+        .messagebox {
+            background-color: ivory;
+
+            width: 400px;
+            margin: auto;
+
+            color: brown;
+
+            padding: 30px;
+
+            font-size: 20px;
+            line-height: 30px;
+
+            box-shadow: 0px 0px 10px 0px white;
+        }
+
+        .from {
+            text-align: right;
+            margin-bottom: 0px;
+
+        }
+
+        @media screen and (max-width: 760px) {
+            .messagebox {
+                width: 300px;
+                padding: 20px;  
+
+            }
+            .rtan {
+    width: 150px;
+    height: 150px;
+    margin: 70px auto 0px auto;
+}
+    h1 {
+        font-size: 28px;
+         
+}
+.envelope {
+    margin: 150px auto 0px auto;
+     }
+    }
+
+
+    </style>
+
+    <script>
+
+        function open_letter() {
+            document.getElementsByClassName("letter-close")[0].style.display = 'none'
+            document.getElementsByClassName("letter-open")[0].style.display = 'block'
+        }
+
+        function go_rtan() {
+            alert('김다슬 바보');
+            window.location.href='https://www.youtube.com/watch?v=TH8EDpn0GbU'
+        }
+    </script>
+     
+</head>
+
+<body>
+    <div class="letter-close">
+        <div class="envelope" onclick="open_letter()"></div>
+        <h2 class="envelope-msg">봉투를 열어봐!</h2>
+    </div>
+
+    <div class="letter-open">
+        <div class="rtan" onclick="go_rtan()"></div>
+        <h1>장현철♡김다슬</h1>
+        <div class="messagebox">
+            여자친구 다슬이에게<br />
+            다슬아 안녕 나 남자친구 현토리야 안녕 우리가 
+            크리스마스를 같이 보내다니 기분이 좋아 그치?
+            이거 코딩 너무 어려웠어 ㅜㅜ내 정성 알겠니?
+            진짜 책상에 앉아서 맥북만 주구장창 두들겼다구
+            허리 아프니까 만나면 마사지 좀 해줘요 알겠지?
+            안 해주기만해라 ㅡㅡ정말, 근데 음 생각을 해봤는데
+            이게 좀 색달라보일거같아서 해봤는데 음 너가
+            좋아할지 모르겠어 그래도 내 노력 알아줘야 돼 알았지?
+            근데 진짜 신기한게 이 편지 링크가 몇 년 갈까?평생 갈까?
+            평생 갈 거 같아 신기하지?! 꼬박꼬박 잘 보렴 우리 싸울
+            때 마다 봐야 돼약속해 ㅡㅡ 하늘이 보고있다, 다슬아 나 있잖아
+            처음 널 만났을 때 가 생각이 나 우리 그전부터 정말
+            어떻게 그렇게 알게 되고 서로 연락하면서 신기하게
+            좋은 감정이 쌓여가고 만나보고 싶어서 만났잖아 우리
+            처음 만난 날이 아직도 기억이 나! 저 멀리서
+            차 뒤에 숨어가지고 수줍어하던 모습 푸우웁
+            그리고 생각보다 우리 안 어색했어 그치? 근데
+            당연 내가 말을 많이 했으니까~ 그리고 또! 
+            먹어보고 싶던 시리얼도 먹어보고 근데 ,그 맛이
+            기억이 날랑 말랑하네 그리고 맥주도 같이 마셨잖아
+            정말 생각도 못 했었던 건데 그치? 그리고 내가 
+            이틀 뒤에 일을 안 가는날이어서 다행이었던 것 같아 누가 자꾸 
+            가지 마라~가지 마라~ 해가지고 같이 있고 그치요? ㅋㅋ
+            그리구 그다음 이야기는 너한테 좀 직접 물어볼래 오늘
+            재밌을 거 같당 맞지~!~~! 정말 우리는 음악 취향도 
+            비슷하고 그리고 웃음코드도 정말 똑같아 그리고 음식 취향
+            어떻게 그렇게 다 똑같은지 그리고 우리가 만난 거 완전
+            운명처럼 만났고 우리 mbti 그리고 그 어떤 검사하는 것도
+            그것도 똑같고 ㅡㅡ그리고 카톡도 텔레파시 통한적 진짜 많고
+            대박인 거 같아 우리는 정말 운명이니까 구냥 싸워도 받아들이자ㅋㅋ
+            알았지요?!우린 어쩔 수 없이 같이 사랑해야 돼 왜냐면 운명이니까!    
+            그리고 다슬아 나 또 할 말 있어 듣고서 정말 잘~ 새겨들어야 돼
+            우리 정말 이제 그만 싸우고 서로 더 노력하고 정말
+            이쁘게 사랑하자 우리 많이 싸워봐서 서로에 대해서 잘 알 때도
+            됐잖아 그렇죠?! 그니까 서로 더 배려해 주고 상대방이 사과하면
+            받아주고 그러자! 풀릴 때까지 얘기하고 알았지? 다슬아
+            크리스마스 너랑 보내게 돼서 나 너무 좋아 정말로 
+            내가 표현이 서툴러서 항상 미안해 그래도 나 이제 표현
+            어느 정도 잘 하고 노력 많이 하는거 잘 알지요?
+            더욱더 노력할게요! 정말 말로 표현 못 할 만큼 사랑해
+            이 편지 오늘부터 평생 하루에 한 번씩 봐 알았지?
+            세상에서 제일 사랑하는!!! 다슬아 우리 정말     
+            이쁘게 사랑하자 알라뷰 베이비♡
+            
+            
+
+            
+
+
+            <p class="from">2020.12.25 다슬이 남자친구 현처리가♡</p>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
